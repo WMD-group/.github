@@ -10,4 +10,4 @@ We are members of:
 
 * [Artificial Intelligence Network](https://www.imperial.ac.uk/artificial-intelligence)
 
-Our specialisation is data-driven materials design and optimisation using open-source tools.
+Our focus is data-driven materials design and optimisation for renewable energy applications using open-source tools.
